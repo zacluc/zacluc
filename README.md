@@ -32,7 +32,7 @@
 ## 👤 Profile
 
 ```bash
-user: Isaac Lucas
-role: Computer Engineering (Student)
-location: Brazil
-status: Active
+Name: Isaac Lucas
+Role: Computer Engineering (Student)
+Location: Brazil
+Status: Active
