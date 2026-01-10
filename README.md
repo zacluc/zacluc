@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=32&center=true&vCenter=true&width=600&lines=Isaac+Lucas;Java+%7C+Python+%7C+C" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=32&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Isaac+Lucas" />
 </h1>
 
 <p align="center">
