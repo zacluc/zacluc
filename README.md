@@ -3,10 +3,9 @@
 <!-- ===================== -->
 
 <h2 align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=D3D3D3&size=18&width=500&lines=Hi,+I'm+Isaac" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=808080&size=22&width=500&typeSpeed=65&pause=1200&repeat=true&lines=Hi,+I'm+Isaac" />
 </h2>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Ativo-2E7D32?style=flat-square&logo=linux&logoColor=white">
