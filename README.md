@@ -29,24 +29,6 @@
 
 ---
 
-## 📊 GitHub Status
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=zacluc&show_icons=true&hide_title=true&count_private=true&theme=github_dark&hide_border=true" 
-    alt="GitHub stats"
-  />
-</p>
-
-## 🧠 Most Used Languages
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacluc&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Most used languages"
-  />
-</p>
-
 
 ## 👤 Profile
 
