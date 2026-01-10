@@ -29,20 +29,16 @@
 
 ---
 
-<h2>📊 Contributions</h2>
-
-<p style="margin-bottom: 6px;">
-  <sub>Contribution activity over time</sub>
-</p>
+<h2>📈 Contribution Activity</h2>
 
 <p>
-  <img 
-    src="https://ghchart.rshah.org/00a86b/zacluc"
-    alt="zacluc GitHub contribution graph"
-  />
+  <sub>Commit activity over time</sub>
 </p>
 
-
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zacluc&theme=github-dark&hide_border=true&area=true"
+  alt="zacluc contribution activity graph"
+/>
 
 
 
