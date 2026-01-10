@@ -26,15 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
 </div>
 
----
-
-## 📊 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
