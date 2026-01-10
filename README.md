@@ -29,7 +29,21 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=zacluc&theme=github_dark&cache_seconds=1800" />
+<h2>📊 Contributions</h2>
+
+<p style="margin-bottom: 6px;">
+  <sub>Contribution activity over time</sub>
+</p>
+
+<p>
+  <img 
+    src="https://ghchart.rshah.org/00a86b/zacluc"
+    alt="zacluc GitHub contribution graph"
+  />
+</p>
+
+
+
 
 
 ## 👤 Profile
