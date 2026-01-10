@@ -4,7 +4,7 @@
 
 <h2 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=18&width=500&lines=Olá,+eu+sou+Isaac+Lucas" 
+    src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=18&width=500&lines=Olá,+eu+sou+Isaac" 
   />
 </h2>
 
