@@ -4,7 +4,7 @@
 
 <h2 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=18&width=500&lines=Olá,+eu+sou+o+Isaac" 
+    src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=18&width=500&lines=Hi,+I'm+Isaac" 
   />
 </h2>
 
@@ -33,6 +33,6 @@
 
 ```bash
 user: Isaac Lucas
-role: Software Developer (Student)
+role: Computer Engineering (Student)
 location: Brazil
 status: Active
