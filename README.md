@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=32&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Isaac+Lucas" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=32&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Isaac" />
 </h1>
 
 <p align="center">
@@ -30,6 +30,15 @@
 ###
 
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## 🟢 SYSTEM.INIT()
 
