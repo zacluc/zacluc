@@ -29,6 +29,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=zacluc&theme=github_dark&cache_seconds=1800" />
+
 
 ## 👤 Profile
 
