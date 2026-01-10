@@ -1,63 +1,47 @@
 <!-- ===================== -->
-<!--  HACKER README - ISAAC -->
+<!--  PROFESSIONAL README -->
 <!-- ===================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=32&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Isaac" />
-</h1>
+<h2 align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=6EE7B7&size=18&width=500&lines=Olá,+eu+sou+Isaac+Lucas;Estudante+de+Engenharia+de+Software;Desenvolvedor+de+Software" 
+  />
+</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41">
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Ativo-2E7D32?style=flat-square&logo=linux&logoColor=white">
 </p>
 
 ---
-###
 
-<h3 align="left">🛠 Languages</h3>
-
-###
+## 🛠 Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
 </div>
 
-###
+---
 
-
-###
+## 📊 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-## 🟢 SYSTEM.INIT()
+## 👤 Profile
 
 ```bash
-> user: Isaac Lucas
-> role: Software Developer
-> location: BR
-> focus: Logic | Performance | Low-level & OOP
-> status: Student
-
-[✔] Object-Oriented Programming
-[✔] Data Structures
-[✔] Algorithms
-[✔] File Persistence
-[✔] Logical Reasoning
-[✔] Problem Solving
-
-> Studying Software Engineering
-> Improving low-level logic
-> Building academic & personal projects
-> Seeking mastery, not shortcuts
-
+user: Isaac Lucas
+role: Software Developer (Student)
+location: Brazil
+status: Active
