@@ -19,7 +19,7 @@
 > role: Software Developer
 > location: BR
 > focus: Logic | Performance | Low-level & OOP
-> status: hacking the matrix...
+> status: Student
 
 [✔] Object-Oriented Programming
 [✔] Data Structures
