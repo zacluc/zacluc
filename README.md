@@ -29,6 +29,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacluc)](https://github.com/zacluc/github-readme-stats)
+
 ## 👤 Profile
 
 ```bash
