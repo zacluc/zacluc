@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=b5b5b5&size=22&width=500&typeSpeed=65&pause=1200&repeat=true&lines=Hi,+I'm+Isaac" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=b5b5b5&size=22&width=500&typeSpeed=65&pause=1200&repeat=true&lines=Hi,+I+am+Isaac" />
 </h2>
 
 
